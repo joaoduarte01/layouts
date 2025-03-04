@@ -1,0 +1,25 @@
+.azul{
+    background-color: rgb(96, 96, 253);
+    padding: 50px;
+    margin: 0px;
+}
+
+.amarela{
+    background-color: rgb(253, 229, 96);
+    padding: 247px;
+    padding-bottom: 200px;
+    margin: 50px;
+}
+
+.flex{
+    display: flex;
+    
+}
+
+.baixo{
+    padding-bottom:830 ;
+}
+
+.extender{
+    padding-right: 830px;
+}
